@@ -1,0 +1,41 @@
+{
+  "name": "generator-unity3d",
+  "version": "0.0.0",
+  "description": "A generator for Unity3d",
+  "keywords": [
+    "yeoman-generator",
+    "unity",
+    "3d"
+  ],
+  "homepage": "https://github.com/zamtools/generator-unity3d",
+  "bugs": "https://github.com/zamtools/generator-unity3d/issues",
+  "author": {
+    "name": "Ian Zamojc",
+    "email": "izamojc@zamtools.com",
+    "url": "https://github.com/zamtools"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zamtools/generator-unity3d.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.13.0"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0-rc.1"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
